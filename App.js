@@ -14,7 +14,7 @@ import Visualization from './Visualization';
 
 //Username of a GitHub repo to start from.
 global.gitUserName = 'shukaiz';
-global.personalToken = 'd28da0bc3546c50278866db0fc115d43423e191a';
+global.personalToken = ''; //Replace with personal access token.
 
 //Structure for the navigatin Drawer
 class NavigationDrawerStructure extends Component {
