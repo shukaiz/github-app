@@ -1,5 +1,6 @@
-# github-app
-A React Native app to manage GitHub projects and profile on portable devices written in JavaScript. 
+# Scraping the Web
+~~This is Kevin Zhang's CS 242 Assignment 3. It's cool I swear :)~~
+This is a cross-platform mobile app developed in React Native through JavaScript that displays the information of any user to nominate on GitHub. More details description could be found in this [PDF Manual](./testplan.pdf).
 
 ### Install
 You can download source code from here or GitLab and put into a folder. You should also install relevant environments required for React Native to run. It is recommended that you follow the official instruction published by Facebook on https://facebook.github.io/react-native/docs/getting-started.
@@ -12,4 +13,4 @@ react-native run-ios
 ```
 
 ### Questions?
-You may email me at shukaiz2@illinois.edu.
+You may email me at shukaiz2@illinois.edu or find me at Monday 8 am's code review section.
