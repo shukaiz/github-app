@@ -1,5 +1,4 @@
-# Scraping the Web
-~~This is Kevin Zhang's CS 242 Assignment 3. It's cool I swear :)~~
+# Mobile Development: GitHub App
 This is a cross-platform mobile app developed in React Native through JavaScript that displays the information of any user to nominate on GitHub. More details description could be found in this [PDF Manual](./testplan.pdf).
 
 ### Install
